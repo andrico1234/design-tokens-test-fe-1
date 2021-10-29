@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Oct 2021 14:38:21 GMT
+ * Generated on Fri, 29 Oct 2021 14:42:45 GMT
  */
 
 export const ColorWhite = "#ffffff";
 export const ColorBluePrimary = "#475a79";
-export const ColorBlueDark = "#aaaaaa";
+export const ColorBlueDark = "#1c2f45";
 export const ColorBlueHover = "#26405d";
 export const ColorRedPrimary = "#f4616b";
 export const ColorRedDark = "#df5a63";
