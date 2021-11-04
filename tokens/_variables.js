@@ -1,8 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Oct 2021 15:59:44 GMT
+ * Generated on Thu, 04 Nov 2021 17:32:34 GMT
  */
 
+export const ColorFontButtonPrimary = "#475a79";
+export const ColorFontButtonSecondary = "#8cdbc9";
+export const ColorFontButtonError = "#f4616b";
 export const ColorWhite = "#ffffff";
 export const ColorBluePrimary = "#475a79";
 export const ColorBlueDark = "#1c2f45";
